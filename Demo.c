@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
   int nrows=3,ncols=5;
-  int marr[][];
+  int marr[3][5];
   
   for(int i=0;i<nrows;i++)
   for(int j=0;j<ncols;j++)

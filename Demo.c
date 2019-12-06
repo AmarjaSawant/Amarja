@@ -18,6 +18,6 @@ int main() {
     total+=row_wise_sum[i];
     printf("\n");
   }
-  print ("row_wise_sum[i]=%d, total sum=%d",row_wise_sum[i],total sum);
+  print ("row_wise_sum[i]=%d, total=%d",row_wise_sum[i],total);
   return 0;
 }
